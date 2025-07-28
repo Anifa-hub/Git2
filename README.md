@@ -116,9 +116,13 @@ $
 
 ```
 <!-- Seconf challenge -->
+<<<<<<< HEAD
 <!-- Using this rebase in head you put what you commit before what you want to edit
 and you delet pick the word infront of what you are editing replace it with reword and save by write wq
  -->
 git rebase -i  HEAD@{2} 
+=======
+
+>>>>>>> 84321585e5c16ed9c81d411ed33c9e7d03017ba0
 
 ```
